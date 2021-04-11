@@ -76,5 +76,4 @@ public class StudentRegistrationFormTests {
                 text(address),
                 text(state + " " + city));
     }
-
 }
