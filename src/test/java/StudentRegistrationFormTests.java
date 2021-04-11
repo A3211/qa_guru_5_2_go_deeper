@@ -30,7 +30,6 @@ public class StudentRegistrationFormTests {
                 state = "Haryana",
                 city = "Karnal";
 
-
         open("https://demoqa.com/automation-practice-form");
         $("#firstName").setValue(firstName);
         $("#lastName").setValue(lastName);
